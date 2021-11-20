@@ -9,3 +9,8 @@
   margin: auto;
   text-align: center;
 }
+
+.summaryContainer p {
+  padding: var(--md-gutter);
+  color: var(--red);
+}

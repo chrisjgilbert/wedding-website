@@ -11,7 +11,7 @@ export default function Nav() {
                     <li>
                         Places to eat
                     </li>
-                    <li>
+                    <li className={styles.navTitle}>
                         Provence 2022
                     </li>
                     <li>

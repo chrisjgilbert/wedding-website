@@ -18,3 +18,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+:root {
+  --max-width: 1080px;
+  --md-gutter: 2rem;
+  --pink: #F8F1F1;
+  --red: #AE1919;
+}
