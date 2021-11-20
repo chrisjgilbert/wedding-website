@@ -1,0 +1,14 @@
+.container {
+	display: flex;
+	padding: var(--md-gutter) 0;
+	grid-gap: 4rem;
+}
+
+.imageContainer {
+	position: relative;
+	flex: 1;
+}
+
+.contentContainer {
+	flex: 1;
+}

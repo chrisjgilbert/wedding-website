@@ -1,27 +1,35 @@
 @font-face {
 	font-family: 'Libre Baskerville';
-  src: url('/fonts/Baskervville-Regular.ttf');
+    src: url('/fonts/Baskervville-Regular.ttf');
 }
 
 html,
 body {
-  padding: 0;
-  margin: 0;
-  font-family: 'Libre Baskerville';
+    padding: 0;
+    margin: 0;
+    font-family: 'Libre Baskerville';
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
 }
 
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 :root {
-  --max-width: 1080px;
-  --md-gutter: 2rem;
-  --pink: #F8F1F1;
-  --red: #AE1919;
+    --max-width: 1080px;
+    --md-gutter: 2rem;
+    --sm-gutter: 1rem;
+    --pink: #F8F1F1;
+    --red: #AE1919;
 }

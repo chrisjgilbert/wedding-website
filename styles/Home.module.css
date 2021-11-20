@@ -1,16 +1,16 @@
-.container {
-  padding: 0 2rem;
-  max-width: 1080px;
-  margin: auto;
-}
-
-.summaryContainer {
+.copyContainer {
   max-width: 675px;
   margin: auto;
   text-align: center;
+	padding: var(--md-gutter);
 }
 
-.summaryContainer p {
-  padding: var(--md-gutter);
+.copyContainer p {
+	font-size: 1.25rem;
   color: var(--red);
+	margin: 0;
+}
+
+.copyContainer p:last-child {
+	margin-top: var(--sm-gutter);
 }

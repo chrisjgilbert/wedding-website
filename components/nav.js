@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 import styles from "../styles/components/Nav.module.css"
 
 export default function Nav() {
@@ -6,13 +8,17 @@ export default function Nav() {
             <nav>
                 <ul className={styles.navWrapper}>
                     <li>
-                        Places to visit
+                        <Link href="/places-to-visit">
+                            <a>Places to visit</a>
+                        </Link>
                     </li>
                     <li>
                         Places to eat
                     </li>
                     <li className={styles.navTitle}>
-                        Provence 2022
+                        <Link href="/">
+                            <a>Provence 2022</a>
+                        </Link>
                     </li>
                     <li>
                         Places to stay
