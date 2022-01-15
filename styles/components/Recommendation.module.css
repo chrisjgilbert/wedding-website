@@ -22,3 +22,9 @@
 .contentContainer p {
   white-space: pre-line;
 }
+
+.contentContainer > hr {
+  margin-bottom: 1rem;
+  border-top: 1px solid var(--black);
+  opacity: 0.5;
+}
