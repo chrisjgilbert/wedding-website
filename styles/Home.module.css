@@ -6,6 +6,7 @@
 }
 
 .copyContainer p {
+  font-family: "Libre Baskerville";
   font-size: 1.25rem;
   color: var(--black);
   margin: 0;
