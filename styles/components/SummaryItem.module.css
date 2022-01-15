@@ -1,5 +1,6 @@
 .container {
   display: flex;
+  align-items: center;
   padding: var(--md-gutter) 0;
   grid-gap: 4rem;
 }
@@ -7,6 +8,7 @@
 .imageContainer {
   position: relative;
   flex: 1;
+  height: 510px;
 }
 
 .contentContainer {

@@ -2,12 +2,12 @@ import Image from "next/image";
 
 import styles from "../styles/components/SummaryItem.module.css";
 
-export default function SummaryItem({ topic, title, copy }) {
+export default function SummaryItem({ topic, title, copy, image }) {
   return (
     <li className={styles.container}>
       <div className={styles.imageContainer}>
         <Image
-          src="/placeholder-1.jpg"
+          src={`/images/${image}`}
           layout="fill"
           alt={topic}
           objectFit="cover"
