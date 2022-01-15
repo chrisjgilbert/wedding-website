@@ -1,6 +1,7 @@
 import HeroImage from "../components/heroImage";
 import Container from "../components/container";
 import ListContainer from "../components/listContainer";
+import ListContainerItem from "../components/listContainerItem";
 import SummaryItem from "../components/SummaryItem";
 
 import styles from "../styles/Home.module.css";
@@ -24,7 +25,9 @@ export default function Home() {
         </div>
         <ListContainer>
           {topics.map((topic) => (
-            <SummaryItem key={topic.title} {...topic} />
+            <ListContainerItem key={topic.title}>
+              <SummaryItem {...topic} />
+            </ListContainerItem>
           ))}
         </ListContainer>
       </Container>

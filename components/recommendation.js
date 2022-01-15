@@ -1,6 +1,7 @@
 import Image from "next/image";
 
 import SubList from "./subList";
+import Hr from "./hr";
 
 import styles from "../styles/components/Recommendation.module.css";
 
@@ -9,7 +10,7 @@ export default function Recommendation({ title, content, image, details }) {
     if (details && details.length) {
       return (
         <>
-          <hr />
+          <Hr style={{ "margin-bottom": "1rem" }} />
           <SubList items={details} />
         </>
       );
@@ -19,7 +20,7 @@ export default function Recommendation({ title, content, image, details }) {
   };
 
   return (
-    <li className={styles.container}>
+    <>
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
@@ -33,6 +34,6 @@ export default function Recommendation({ title, content, image, details }) {
         <p>{content}</p>
         {footer()}
       </div>
-    </li>
+    </>
   );
 }

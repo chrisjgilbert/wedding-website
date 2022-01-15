@@ -1,6 +1,7 @@
 import Container from "../components/container";
 import HeroImage from "../components/heroImage";
 import ListContainer from "../components/listContainer";
+import ListContainerItem from "../components/listContainerItem";
 import PageHeader from "../components/pageHeader";
 import Recommendation from "../components/recommendation";
 
@@ -18,7 +19,9 @@ export default function PlacesToVisit() {
         />
         <ListContainer>
           {content.map((c) => (
-            <Recommendation key={c.title} {...c} />
+            <ListContainerItem key={c.title}>
+              <Recommendation {...c} />
+            </ListContainerItem>
           ))}
         </ListContainer>
       </Container>

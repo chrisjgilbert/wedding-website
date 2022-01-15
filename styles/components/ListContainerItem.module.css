@@ -1,0 +1,5 @@
+.container {
+  display: flex;
+  grid-gap: 4rem;
+  min-height: 500px;
+}
