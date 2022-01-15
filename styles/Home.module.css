@@ -2,15 +2,15 @@
   max-width: 675px;
   margin: auto;
   text-align: center;
-	padding: var(--md-gutter);
+  padding: var(--md-gutter);
 }
 
 .copyContainer p {
-	font-size: 1.25rem;
-  color: var(--red);
-	margin: 0;
+  font-size: 1.25rem;
+  color: var(--black);
+  margin: 0;
 }
 
 .copyContainer p:last-child {
-	margin-top: var(--sm-gutter);
+  margin-top: var(--sm-gutter);
 }

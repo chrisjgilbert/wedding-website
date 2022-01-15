@@ -1,14 +1,38 @@
 .container {
-	display: flex;
-	padding: var(--md-gutter) 0;
-	grid-gap: 4rem;
+  display: flex;
+  padding: var(--md-gutter) 0;
+  grid-gap: 4rem;
 }
 
 .imageContainer {
-	position: relative;
-	flex: 1;
+  position: relative;
+  flex: 1;
 }
 
 .contentContainer {
-	flex: 1;
+  flex: 1;
+}
+
+.contentContainer > span {
+  font-family: "Montserrat";
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.contentContainer > h2 {
+  margin: 1rem 0;
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.contentContainer > hr {
+  margin: 0;
+  height: 1px;
+  border-top: 1px solid var(--black);
+}
+
+.contentContainer > p {
+  margin: 1rem 0;
+  color: rgba(0, 0, 0, 0.6);
 }
