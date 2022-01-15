@@ -1,18 +1,25 @@
 .container {
-	display: flex;
-	padding: var(--md-gutter) 0;
-	grid-gap: 4rem;
+  display: flex;
+  padding: var(--md-gutter) 0;
+  grid-gap: 4rem;
+  min-height: 600px;
 }
 
 .imageContainer {
-	position: relative;
-	flex: 1;
+  position: relative;
+  flex: 1;
 }
 
 .contentContainer {
-	flex: 1;
+  flex: 1;
+  align-self: center;
+}
+
+.contentContainer h2 {
+  font-family: "Montserrat";
+  font-size: 1.375rem;
 }
 
 .contentContainer p {
-    white-space: pre-line;
+  white-space: pre-line;
 }

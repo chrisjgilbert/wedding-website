@@ -1,8 +1,8 @@
 .container {
   display: flex;
-  align-items: center;
   padding: var(--md-gutter) 0;
   grid-gap: 4rem;
+  min-height: 500px;
 }
 
 .imageContainer {
@@ -13,6 +13,7 @@
 
 .contentContainer {
   flex: 1;
+  align-self: center;
 }
 
 .contentContainer > span {
