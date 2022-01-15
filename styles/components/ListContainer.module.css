@@ -1,3 +1,7 @@
+.container li {
+  margin-top: var(--md-gutter);
+}
+
 .container li:nth-child(even) {
   flex-direction: row-reverse;
 }

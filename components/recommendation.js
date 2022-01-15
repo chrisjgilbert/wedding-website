@@ -10,7 +10,7 @@ export default function Recommendation({ title, content, image }) {
           src={`/images/${image}`}
           layout="fill"
           alt={title}
-          objectFit="cover"
+          objectFit="contain"
         />
       </div>
       <div className={styles.contentContainer}>

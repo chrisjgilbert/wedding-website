@@ -1,8 +1,7 @@
 .container {
   display: flex;
-  padding: var(--md-gutter) 0;
   grid-gap: 4rem;
-  min-height: 600px;
+  min-height: 500px;
 }
 
 .imageContainer {
