@@ -1,5 +1,6 @@
 import Image from "next/image";
 
+import Tag from "./tag";
 import Hr from "./hr";
 
 import styles from "../styles/components/SummaryItem.module.css";
@@ -16,7 +17,7 @@ export default function SummaryItem({ topic, title, copy, image }) {
         />
       </div>
       <div className={styles.contentContainer}>
-        <span>{topic}</span>
+        <Tag text={topic} />
         <h2>{title}</h2>
         <Hr />
         <p>{copy}</p>

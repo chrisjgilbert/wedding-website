@@ -17,6 +17,7 @@
 
 html,
 body {
+  font-size: 14px;
   padding: 0;
   margin: 0;
   font-family: "Montserrat";
@@ -43,8 +44,22 @@ h2 {
   font-family: "Libre Baskerville";
 }
 
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.286rem;
+}
+
+p {
+  letter-spacing: -0.015rem;
+  line-height: 1.8;
+}
+
 :root {
   --max-width: 1080px;
+  --lg-gutter: 3rem;
   --md-gutter: 2rem;
   --sm-gutter: 1rem;
   --black: #000000;

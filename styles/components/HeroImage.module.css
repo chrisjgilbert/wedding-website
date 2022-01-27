@@ -1,5 +1,5 @@
 .container {
   position: relative;
   max-width: var(--max-width);
-	margin: 0 auto var(--md-gutter) auto;
+  margin: 0 auto var(--lg-gutter) auto;
 }

@@ -15,8 +15,9 @@
 .navWrapper li {
   color: var(--red);
   font-family: "Libre Baskerville";
+  font-size: 1.286rem;
 }
 
-.navTitle {
-  font-size: 1.5rem;
+.navWrapper .navTitle {
+  font-size: 1.6rem;
 }

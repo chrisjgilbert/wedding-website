@@ -1,4 +1,8 @@
-.container > li {
+.container {
+  margin-top: var(--lg-gutter);
+}
+
+.container > li + li {
   margin-top: var(--md-gutter);
 }
 
