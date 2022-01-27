@@ -24,8 +24,10 @@ export default function Recommendation({ title, content, image, details }) {
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
-          layout="fill"
+          layout="responsive"
           alt={title}
+          height={500}
+          width={500}
           objectFit="contain"
         />
       </div>

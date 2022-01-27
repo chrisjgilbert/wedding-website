@@ -3,7 +3,7 @@
 }
 
 .navWrapper {
-  padding: var(--md-gutter) 0;
+  padding: var(--md-gutter) var(--sm-gutter);
   max-width: var(--max-width);
   margin: 0 auto;
   display: flex;

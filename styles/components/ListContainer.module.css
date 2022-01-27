@@ -17,6 +17,10 @@
 @media screen and (max-width: 768px) {
   .container > li,
   .container > li:nth-child(even) {
-    flex-direction: column-reverse;
+    flex-direction: column;
+  }
+
+  .container > li + li {
+    margin-top: var(--lg-gutter);
   }
 }
