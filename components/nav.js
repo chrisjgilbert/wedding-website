@@ -8,20 +8,16 @@ export default function Nav() {
       <nav>
         <ul className={styles.navWrapper}>
           <li>
-            <Link href="/places-to-visit">
-              <a>Places to visit</a>
-            </Link>
-          </li>
-          <li>Places to eat</li>
-          <li className={styles.navTitle}>
-            <Link href="/">
-              <a>Provence 2022</a>
-            </Link>
+            <Link href="/places-to-visit">Places to visit</Link>
           </li>
           <li>
-            <Link href="/places-to-stay">
-              <a>Places to stay</a>
-            </Link>
+            <Link href="/places-to-eat">Places to eat</Link>
+          </li>
+          <li className={styles.navTitle}>
+            <Link href="/">Provence 2022</Link>
+          </li>
+          <li>
+            <Link href="/places-to-stay">Places to stay</Link>
           </li>
           <li>Other things to do</li>
         </ul>

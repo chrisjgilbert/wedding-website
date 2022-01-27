@@ -10,7 +10,7 @@ export default function Recommendation({ title, content, image, details }) {
     if (details && details.length) {
       return (
         <>
-          <Hr style={{ "margin-bottom": "1rem" }} />
+          <Hr style={{ marginBottom: "1rem" }} />
           <SubList items={details} />
         </>
       );
