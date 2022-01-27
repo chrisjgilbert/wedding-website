@@ -19,7 +19,9 @@ export default function Nav() {
           <li>
             <Link href="/places-to-stay">Places to stay</Link>
           </li>
-          <li>Other things to do</li>
+          <li>
+            <Link href="/other-activities">Other activities</Link>
+          </li>
         </ul>
       </nav>
     </header>
