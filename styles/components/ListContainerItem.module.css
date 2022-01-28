@@ -2,10 +2,12 @@
   display: flex;
   grid-gap: 4rem;
   min-height: 500px;
+  align-items: center;
 }
 
 @media screen and (max-width: 768px) {
   .container {
     grid-gap: 0;
+    align-items: normal;
   }
 }
