@@ -54,7 +54,7 @@
     padding: var(--sm-gutter);
     flex-direction: column;
     grid-gap: 1rem;
-    animation: fadeIn 0.25s;
+    animation: fadeIn 0.4s;
   }
 
   /* hamburger */
