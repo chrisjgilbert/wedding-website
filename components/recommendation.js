@@ -28,7 +28,7 @@ export default function Recommendation({ title, content, image, details }) {
           alt={title}
           height={500}
           width={500}
-          objectFit="contain"
+          objectFit="cover"
         />
       </div>
       <div className={styles.contentContainer}>

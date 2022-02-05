@@ -10,80 +10,37 @@ export default function Nav() {
     setMobileMenuActive(!mobileMenuActive);
   };
 
-  const mobileMenu = () => {
-    if (mobileMenuActive) {
-      return (
-        <ul className={styles.mobileMenu}>
-          <li onClick={() => setMobileMenuActive(false)}>
-            <Link href="/places-to-visit">Places to visit</Link>
-          </li>
-          <li onClick={() => setMobileMenuActive(false)}>
-            <Link href="/places-to-eat">Places to eat</Link>
-          </li>
-          <li onClick={() => setMobileMenuActive(false)}>
-            <Link href="/places-to-stay">Places to stay</Link>
-          </li>
-          <li onClick={() => setMobileMenuActive(false)}>
-            <Link href="/other-activities">Other activities</Link>
-          </li>
-        </ul>
-      );
-    } else {
-      return null;
-    }
-  };
-
-  const desktopMenu = () => {
+  const navLink = (path, text) => {
     return (
-      <ul className={styles.desktopNavWrapper}>
-        <li>
-          <Link href="/places-to-visit">Places to visit</Link>
-        </li>
-        <li>
-          <Link href="/places-to-eat">Places to eat</Link>
-        </li>
-        <li className={styles.navTitle}>
-          <Link href="/">Provence 2022</Link>
-        </li>
-        <li>
-          <Link href="/places-to-stay">Places to stay</Link>
-        </li>
-        <li>
-          <Link href="/other-activities">Other activities</Link>
-        </li>
-      </ul>
-    );
-  };
-
-  const hamburger = () => {
-    return (
-      <div
-        onClick={toggleMobileMenu}
-        className={`${styles.hamburger}, ${
-          mobileMenuActive ? styles.active : null
-        }`}
-      >
-        <div className={styles.bar1}></div>
-        <div className={styles.bar2}></div>
-        <div className={styles.bar3}></div>
-      </div>
+      <Link href={path}>
+        <a onClick={toggleMobileMenu}>{text}</a>
+      </Link>
     );
   };
 
   return (
-    <header className={styles.container}>
-      <nav>
-        {desktopMenu()}
-        <div className={styles.mobileNavWrapper}>
-          <ul>
-            <li className={styles.navTitle}>
-              <Link href="/">Provence 2022</Link>
-            </li>
+    <header className={styles.header}>
+      <div className={styles.container}>
+        <div className={styles.navTitle}>{navLink("/", "Provence 2022")}</div>
+        <nav className={`${mobileMenuActive ? styles.activeNav : ""}`}>
+          <ul className={styles.navList}>
+            <li>{navLink("/places-to-visit", "Places to visit")}</li>
+            <li>{navLink("/places-to-eat", "Places to eat")}</li>
+            <li>{navLink("/places-to-stay", "Places to stay")}</li>
+            <li>{navLink("/other-activities", "Other activities")}</li>
           </ul>
-          {hamburger()}
-        </div>
-        {mobileMenu()}
-      </nav>
+        </nav>
+        <button
+          onClick={toggleMobileMenu}
+          className={`${styles.hamburgerMenu} ${
+            mobileMenuActive ? styles.active : ""
+          }`}
+        >
+          <div className={styles.bar1}></div>
+          <div className={styles.bar2}></div>
+          <div className={styles.bar3}></div>
+        </button>
+      </div>
     </header>
   );
 }

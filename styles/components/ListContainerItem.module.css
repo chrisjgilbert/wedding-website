@@ -5,6 +5,12 @@
   align-items: center;
 }
 
+@media screen and (max-width: 1080px) {
+  .container {
+    grid-gap: 2rem;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .container {
     grid-gap: 0;

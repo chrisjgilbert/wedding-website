@@ -1,49 +1,65 @@
-.container {
+.header {
   background-color: var(--pink);
   position: relative;
 }
 
-.desktopNavWrapper,
-.mobileMenu {
-  padding: var(--md-gutter) var(--sm-gutter);
+.container {
   max-width: var(--max-width);
+  padding: var(--md-gutter) var(--sm-gutter);
   margin: 0 auto;
   display: flex;
-  flex-direction: row;
-  align-items: center;
   justify-content: space-between;
+  align-items: center;
 }
 
-.desktopNavWrapper,
-.mobileMenu li,
-.mobileNavWrapper .navTitle {
+.navList {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4rem;
+}
+
+.header a {
   color: var(--red);
   font-family: "Libre Baskerville";
   font-size: 1.286rem;
 }
 
-.desktopNavWrapper .navTitle,
-.mobileNavWrapper .navTitle {
+.navTitle a {
   font-size: 1.6rem;
 }
 
-.mobileNavWrapper {
+.hamburgerMenu {
   display: none;
 }
 
 @media screen and (max-width: 1080px) {
-  .mobileNavWrapper {
-    position: relative;
-  }
-
-  .desktopNavWrapper {
+  .navList {
     display: none;
   }
 
-  .hamburger {
-    display: inline-block;
-    cursor: pointer;
-    height: 85px;
+  .activeNav {
+    display: block;
+    width: 100%;
+    position: absolute;
+    z-index: 100;
+    top: 100%;
+    left: 0;
+  }
+
+  .activeNav .navList {
+    border-radius: 0 0 8px 8px;
+    background-color: var(--pink);
+    display: flex;
+    padding: var(--sm-gutter);
+    flex-direction: column;
+    grid-gap: 1rem;
+  }
+
+  /* hamburger */
+  .hamburgerMenu {
+    display: block;
+    border: none;
   }
 
   .bar1,
@@ -69,24 +85,5 @@
   .active .bar3 {
     -webkit-transform: rotate(45deg) translate(-8px, -8px);
     transform: rotate(45deg) translate(-8px, -8px);
-  }
-
-  .mobileNavWrapper {
-    height: 55px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: var(--sm-gutter);
-  }
-
-  .mobileMenu {
-    position: absolute;
-    z-index: 1;
-    background-color: var(--pink);
-    border-radius: 0 0 8px 8px;
-    width: 100%;
-    padding: var(--sm-gutter);
-    flex-direction: column;
-    grid-gap: 1rem;
   }
 }
