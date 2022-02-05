@@ -3,7 +3,7 @@
 }
 
 .container > li + li {
-  margin-top: var(--md-gutter);
+  margin-top: var(--lg-gutter);
 }
 
 .container > li:nth-child(even) {
@@ -11,7 +11,7 @@
 }
 
 .container > li:last-child {
-  margin-bottom: var(--md-gutter);
+  margin-bottom: var(--lg-gutter);
 }
 
 @media screen and (max-width: 768px) {
@@ -21,6 +21,6 @@
   }
 
   .container > li + li {
-    margin-top: var(--lg-gutter);
+    margin-top: var(--xl-gutter);
   }
 }

@@ -59,6 +59,7 @@ p {
 
 :root {
   --max-width: 1080px;
+  --xl-gutter: 4rem;
   --lg-gutter: 3rem;
   --md-gutter: 2rem;
   --sm-gutter: 1rem;

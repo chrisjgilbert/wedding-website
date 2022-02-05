@@ -11,8 +11,10 @@ export default function SummaryItem({ topic, title, copy, image }) {
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
-          layout="fill"
-          alt={topic}
+          layout="responsive"
+          alt={title}
+          height={500}
+          width={500}
           objectFit="cover"
         />
       </div>

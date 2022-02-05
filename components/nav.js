@@ -21,7 +21,9 @@ export default function Nav() {
   return (
     <header className={styles.header}>
       <div className={styles.container}>
-        <div className={styles.navTitle}>{navLink("/", "Provence 2022")}</div>
+        <div className={styles.navTitle}>
+          <Link href="/">Provence 2022</Link>
+        </div>
         <nav className={`${mobileMenuActive ? styles.activeNav : ""}`}>
           <ul className={styles.navList}>
             <li>{navLink("/places-to-visit", "Places to visit")}</li>
