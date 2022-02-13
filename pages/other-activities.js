@@ -10,7 +10,7 @@ import content from "../content/other_activities";
 export default function OtherActivities() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/other_things.jpg" />
       <Container>
         <PageHeader
           span="Other things to do while you are in the Luberon"

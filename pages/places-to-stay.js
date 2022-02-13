@@ -10,7 +10,7 @@ import content from "../content/places_to_stay";
 export default function PlacesToVisit() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/hotels_villas.jpg" />
       <Container>
         <PageHeader
           span="Places to stay"

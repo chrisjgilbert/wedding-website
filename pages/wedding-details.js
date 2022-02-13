@@ -11,7 +11,7 @@ import { content } from "../content/wedding_details";
 export default function WeddingDetails() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/on_the_day.jpg" />
       <Container>
         <PageHeader
           span="Information on the wedding"
@@ -27,6 +27,7 @@ export default function WeddingDetails() {
         </ListContainer>
         <OnTheDay />
       </Container>
+      <HeroImage image="/bastide_c.png" />
     </>
   );
 }

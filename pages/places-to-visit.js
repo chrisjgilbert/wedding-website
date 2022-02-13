@@ -10,7 +10,7 @@ import content from "../content/villages_and_towns";
 export default function PlacesToVisit() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/villages_towns.jpg" />
       <Container>
         <PageHeader
           span="Places to visit "

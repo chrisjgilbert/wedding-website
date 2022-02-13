@@ -10,7 +10,7 @@ import content from "../content/places_to_eat";
 export default function PlacesToEat() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/food.jpg" />
       <Container>
         <PageHeader
           span="Places to eat and drink"

@@ -1,6 +1,6 @@
 .detailsContainer {
   max-width: 700px;
-  margin: auto;
+  margin: 0 auto var(--xl-gutter);
   text-align: center;
 }
 

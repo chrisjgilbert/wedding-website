@@ -11,7 +11,7 @@ import topics from "../content/topics";
 export default function Home() {
   return (
     <>
-      <HeroImage />
+      <HeroImage image="/homepage.jpg" />
       <Container>
         <div className={styles.copyContainer}>
           <p>
