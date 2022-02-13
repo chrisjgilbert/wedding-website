@@ -1,0 +1,26 @@
+.detailsContainer {
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+.detailsContainer h2 {
+  margin: 0.5rem 0 2rem;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.detailsContainer h6 {
+  font-size: 1rem;
+  font-weight: 400;
+  margin: 0;
+}
+
+.detailsList dt {
+  font-weight: 700;
+}
+
+.detailsList dt,
+.detailsList dd {
+  margin: 1rem 0 0 0;
+}

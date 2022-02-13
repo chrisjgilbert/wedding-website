@@ -30,6 +30,7 @@ export default function Nav() {
             <li>{navLink("/places-to-eat", "Places to eat")}</li>
             <li>{navLink("/places-to-stay", "Places to stay")}</li>
             <li>{navLink("/other-activities", "Other activities")}</li>
+            <li>{navLink("/wedding-details", "Wedding details")}</li>
           </ul>
         </nav>
         <button
