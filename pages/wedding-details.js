@@ -4,7 +4,7 @@ import ListContainer from "../components/listContainer";
 import ListContainerItem from "../components/listContainerItem";
 import PageHeader from "../components/pageHeader";
 import SummaryItem from "../components/summaryItem";
-import OnTheDay from "../components/OnTheDay";
+import OnTheDay from "../components/onTheDay";
 
 import { content } from "../content/wedding_details";
 
