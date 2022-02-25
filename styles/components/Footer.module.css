@@ -1,4 +1,12 @@
 .container {
-    height: 95px;
-    background-color: var(--pink);
+  height: 95px;
+  background-color: var(--pink);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container a {
+  color: var(--red);
+  font-family: "Libre Baskerville";
 }

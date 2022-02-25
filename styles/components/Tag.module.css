@@ -1,3 +1,9 @@
 .tag {
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+  .tag {
+    font-size: 0.8rem;
+  }
+}

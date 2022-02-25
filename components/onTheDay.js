@@ -15,9 +15,8 @@ export default function OnTheDay() {
 
         <dt>Order of the Day</dt>
         <dd>
-          Please arrive by four o’clock at the latest as Our blessing will take
-          place in the ground of the Bastide on Saturday 3rd September 2022 at
-          hal past four in the afternoon.
+          Please arrive by four o’clock as our blessing will take place in the
+          grounds of the Bastide at half past four in the afternoon.
           <br />
           <br />
           This will be followed by a drinks reception in the garden, speeches
@@ -30,11 +29,13 @@ export default function OnTheDay() {
           <br />
           <br />
           Chris will be wearing his back tie but we appreciate that some of you
-          might be more comfortable in a Summer suit. Please be warned that
-          although the weather is often very warm in the day at as the sun goes
-          down the temperature most definitely drops. We are planning (weather
-          obviously permitting) for all of our wedding to take place outside so
-          please bring a warm layer.
+          might be more comfortable in a Summer suit.
+          <br />
+          <br />
+          Please be warned that although the weather is often very warm in the
+          day at as the sun goes down the temperature most definitely drops. We
+          are planning (weather obviously permitting) for all of our wedding to
+          take place outside so please bring a warm layer.
         </dd>
 
         <dt>Dietary Requirements</dt>
@@ -45,14 +46,15 @@ export default function OnTheDay() {
 
         <dt>Taxi’s</dt>
         <dd>
-          We would highly recommend booking a taxi’s in advance. A few
-          recommendations Taxi KAB MAUBEC Conventionné CPA- +33 6 15 78 18 39
+          We would highly recommend booking a taxi’s in advance. We will add
+          some recommendations in due course.
         </dd>
 
         <dt>Contact Details</dt>
         <dd>
           Should you have any issues on the day, please feel free to contact one
-          of the best men, James Nott or Phil Anscombe.
+          of the esteemed best men, James Nott or Phil Anscombe - contact
+          details will be made available closer to the time.
         </dd>
       </dl>
     </div>

@@ -2,7 +2,7 @@
   max-width: 675px;
   margin: auto;
   text-align: center;
-  padding: var(--md-gutter);
+  padding-bottom: var(--md-gutter);
 }
 
 .copyContainer p {

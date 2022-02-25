@@ -26,9 +26,7 @@ export default function Home() {
         <ListContainer>
           {topics.map((topic) => (
             <ListContainerItem key={topic.title}>
-              <div>
-                <SummaryItem {...topic} />
-              </div>
+              <SummaryItem {...topic} />
             </ListContainerItem>
           ))}
         </ListContainer>
