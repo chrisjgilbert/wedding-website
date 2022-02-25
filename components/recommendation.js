@@ -26,7 +26,7 @@ export default function Recommendation({
   };
 
   return (
-    <a href={link} target="_blank">
+    <a href={link} target="_blank" rel="noreferrer">
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
