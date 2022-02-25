@@ -1,18 +1,22 @@
-.container {
+.container > * {
   display: flex;
   grid-gap: 4rem;
   min-height: 500px;
   align-items: center;
 }
 
+.container a:hover h2 {
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 1080px) {
-  .container {
+  .container > * {
     grid-gap: 2rem;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .container {
+  .container > * {
     align-items: normal;
   }
 }

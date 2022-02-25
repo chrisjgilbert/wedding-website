@@ -7,7 +7,7 @@ import styles from "../styles/components/SummaryItem.module.css";
 
 export default function SummaryItem({ topic, title, copy, image }) {
   return (
-    <>
+    <div>
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
@@ -24,6 +24,6 @@ export default function SummaryItem({ topic, title, copy, image }) {
         <Hr />
         <p>{copy}</p>
       </div>
-    </>
+    </div>
   );
 }

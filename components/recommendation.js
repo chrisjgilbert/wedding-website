@@ -5,7 +5,13 @@ import Hr from "./hr";
 
 import styles from "../styles/components/Recommendation.module.css";
 
-export default function Recommendation({ title, content, image, details }) {
+export default function Recommendation({
+  title,
+  content,
+  image,
+  details,
+  link,
+}) {
   const footer = () => {
     if (details && details.length) {
       return (
@@ -20,7 +26,7 @@ export default function Recommendation({ title, content, image, details }) {
   };
 
   return (
-    <>
+    <a href={link} target="_blank">
       <div className={styles.imageContainer}>
         <Image
           src={`/images/${image}`}
@@ -36,6 +42,6 @@ export default function Recommendation({ title, content, image, details }) {
         <p>{content}</p>
         {footer()}
       </div>
-    </>
+    </a>
   );
 }

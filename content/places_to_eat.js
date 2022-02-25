@@ -9,6 +9,7 @@ const content = [
       "+33 4 90 72 31 84",
       "Price £££",
     ],
+    link: "https://www.bistrotle5.com/en/",
   },
   {
     title: "Cafe de France, Lacoste",
@@ -16,6 +17,7 @@ const content = [
       "A very simple cafe with a beautiful view over the valley. Perfect for a glass of local Rosé early evening.",
     image: "cafe_de_france-min.png",
     details: ["D106, 84480 Lacoste", "+33 4 90 75 82 25", "Price ££"],
+    link: "https://www.facebook.com/LacosteCafeDeFrance/",
   },
   {
     title: "Café du Progrès, Ménerbes",
@@ -27,6 +29,7 @@ const content = [
       "+33 4 32 50 12 32",
       "Price ££",
     ],
+    link: "https://www.cafeduprogres-menerbes.com/?lang=en",
   },
   {
     title: "Le Petit Café, Oppède",
@@ -38,6 +41,7 @@ const content = [
       "+33 4 90 76 74 01",
       "Price ££",
     ],
+    link: "https://www.lepetitcafe.fr",
   },
   {
     title: "Le Fournil, Bonnieux",
@@ -45,6 +49,7 @@ const content = [
       "A wonderful terrace setting in Bonnieux with great food and typical French service",
     image: "le_fournil-min.png",
     details: ["5 Pl. Carnot, 84480 Bonnieux", "+33 4 90 75 83 62", "Price £££"],
+    link: "https://lefournil-bonnieux.com/",
   },
   {
     title: "Les Vignes et son Jardin, La Coquillade, Gargas",
@@ -52,6 +57,7 @@ const content = [
       "Always an annual outing for us is dinner in the outside restaurant at Le Coquillade, nestled by the acres of their vines - it makes for a magical setting as the sun sets.  Food is simple Luberon produce with a meat and fish grill.",
     image: "les_vignes_et_son_jardin-min.png",
     details: ["La Coquillade, 84400 Gargas", "+33 4 90 74 71 71", "Price ££££"],
+    link: "https://coquillade.fr/en/les-vignes-et-son-jardin.html",
   },
   {
     title: "Restaurant at Le Moulin, Lourmarin",
@@ -63,6 +69,7 @@ const content = [
       "+33 4 90 68 06 69",
       "Price £££",
     ],
+    link: "https://www.beaumier.com/en/properties/le-moulin-hotel/restaurant/",
   },
   {
     title: "Les Domaines de Fontenille, Lourmarin Store",
@@ -73,6 +80,7 @@ const content = [
       "2 rue du Grand Pré on Place de la Fontaine",
       "Open every day from 10am to 1pm and from 2pm to 6pm",
     ],
+    link: "https://www.lesdomainesdefontenille.com/en/domainedefontenille-vineyard.html",
   },
   {
     title: "Domaine de la Verriere, Gargas",
@@ -84,6 +92,7 @@ const content = [
       "+33 4 90 72 20 88",
       "Open Mon to Sat 9h-12h / 14h-18h. Closed Sundays",
     ],
+    link: "https://www.domainedelaverriere.fr/en/home/",
   },
   {
     title: "Doppio Pizza, Goult",
@@ -95,6 +104,7 @@ const content = [
       "+33 4 90 72 44 57",
       "Price ££",
     ],
+    link: "https://lefooding.com/en/restaurants/restaurant-doppio-goult",
   },
   {
     title: "Maison de la Truffe, Ménerbes",
@@ -107,6 +117,7 @@ const content = [
       "+33 4 90 72 38 37",
       "Price ££",
     ],
+    link: "https://www.vintruffeluberon.com/boutique-en-ligne/",
   },
   {
     title: "La Bergerie, Bonnieux",
@@ -118,6 +129,7 @@ const content = [
       "+33 (0)4 90 75 89 78",
       "Price £££",
     ],
+    link: "https://www.beaumier.com/en/properties/capelongue-hotel/restaurants/",
   },
   {
     title: "Café de la Poste, Goult",
@@ -129,6 +141,7 @@ const content = [
       "+33 4 90 72 23 23",
       "Price ££",
     ],
+    link: "https://www.cafedelaposte-goult.com/en/",
   },
   {
     title: "Le Carillon, Goult",
@@ -136,6 +149,7 @@ const content = [
       "Another of Ali and Jo's must go to restaurants when in Provence. The outside tables are the nicest and you need to book.",
     image: "le_carillon-min.png",
     details: ["Av. du Luberon, 84220 Goult", "+33 4 90 72 15 09", "Price £££"],
+    link: "https://guide.michelin.com/gb/en/provence-alpes-cote-dazur/goult/restaurant/le-carillon",
   },
   {
     title: "Château la Canorgue, Bonnieux",
@@ -147,6 +161,7 @@ const content = [
       "+33 4 90 75 81 01",
       "Open from Monday to Saturday, from 9am to 12pm and from 2pm to 6pm.",
     ],
+    link: "https://chateaulacanorgue.com/gb/gb/",
   },
 ];
 

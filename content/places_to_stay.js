@@ -1,8 +1,9 @@
 const content = [
   {
     title: "Capelongue, Bonnieux",
-    content: `Owned by the Beaumier group who have a couple of hotels across the region. Relatively upmarket and has a great restaurant, garden and pool.te.`,
+    content: `Owned by the Beaumier group who have a couple of hotels across the region. Relatively upmarket and has a great restaurant, garden and pool.`,
     image: "capelongue-min.png",
+    link: "https://www.beaumier.com/en/properties/capelongue-hotel/",
     details: [
       "Les Claparèdes, Chemin des Cabanes, 84480 Bonnieux",
       "+33 4 90 75 89 78",
@@ -11,6 +12,7 @@ const content = [
   },
   {
     title: "Les Clos du Buis, Bonnieux",
+    link: "https://hotel-bonnieux-luberon.com/en/",
     content: `This is a great B&B in Bonniuex. It is relatively basic but in a fantastic location and has apartments as well as rooms. Also has a pool.`,
     image: "clos_du_buis_bonnieux-min.png",
     details: [
@@ -23,6 +25,7 @@ const content = [
     title: "Domaine les Roullets, Oppède",
     content: `A boutique B&B with 5 bedrooms and a self catered cottage in beautiful grounds which include a 700 year old tree, truffle forest, vineyard and a pool. Adults are only allowed to the book B&B bedrooms. Neither of us have stayed here but it comes recommended.`,
     image: "domaine_les_roullets-min.png",
+    link: "https://www.lesroullets.com",
     details: [
       "305a chemin de Fontdrèche, 84580 Oppède",
       "+33 4 90 71 21 88",
@@ -33,6 +36,7 @@ const content = [
     title: "Crillon le Brave, nr Mont Ventoux",
     content: `Whilst it is not in the Luberon, it is a beautiful place to stay and our favourite in Provence. The hotel is built into the village that it takes it's name from, with it's bedrooms expanding into multiple unique buildings. Full of charm, atmosphere and where we got engaged - Ventoux is a stones throw away and the local wine is delicious.`,
     image: "crillon_le_brave-min.png",
+    link: "https://www.crillonlebrave.com",
     details: [
       "Place de l'Eglise, 84410 Crillon-le-Brave",
       "+33 4 90 65 61 61",
@@ -44,6 +48,7 @@ const content = [
     content: `A Thomson favourite (it's upmarket) and the site of Ali''s 60th. If you want a luxury stay we'd highly reocmmend it - it has a spa, gym, tennis courts, 2 swimming pools and crucially a helicopter pad. It's also a good option for dinner with the restaurant in the vines a beautiful setting.`,
     image: "la_coquillade-min.png",
     details: ["Le Perotet, 84400 Gargas", "+33 (0)4 90 74 71 71", "Price ££££"],
+    link: "https://coquillade.fr/en/",
   },
   {
     title: "Le Moulin, Lourmarin",
@@ -54,6 +59,7 @@ const content = [
       "+33 4 90 68 06 69",
       "Price £££",
     ],
+    link: "https://www.beaumier.com/en/properties/le-moulin-hotel/",
   },
   {
     title: "Le Galinier de Lourmarin, Lourmarin",
@@ -64,6 +70,7 @@ const content = [
       "+33 4 89 81 40 75",
       "Price £££",
     ],
+    link: "https://www.beaumier.com/en/properties/le-galinier-villa/",
   },
   {
     title: "La Bastide de Gordes, Gordes",
@@ -74,6 +81,7 @@ const content = [
       "+33 (0)4 90 72 12 12",
       "Price £££",
     ],
+    link: "https://airelles.com/en/destination/gordes-hotel",
   },
   {
     title: "Domaine de Fontenille, Bonnieux",
@@ -84,6 +92,7 @@ const content = [
       "+33 4 13 98 00 00",
       "Price £££",
     ],
+    link: "https://www.lesdomainesdefontenille.com/en/domainedefontenille.html",
   },
   {
     title: "Le Clos Les Eydins, between Bonnieux and Pont Julien",
@@ -94,6 +103,7 @@ const content = [
       "+33 6 18 40 61 56",
       "Price £££",
     ],
+    link: "https://www.leseydins.com/en",
   },
   {
     title: "Villa rentals",
@@ -117,6 +127,7 @@ const content = [
       "+33 6 63 03 52 71",
       "Price ££",
     ],
+    link: "https://www.expedia.co.uk/Goult-Hotels-La-Grande-Verriere.h31827817.Hotel-Information",
   },
   {
     title: "La Maison Papillons",
@@ -127,6 +138,7 @@ const content = [
       "+33 6 20 46 80 05",
       "Price ££",
     ],
+    link: "https://lamaisonpapillons.fr",
   },
 ];
 

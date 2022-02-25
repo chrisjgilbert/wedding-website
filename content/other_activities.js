@@ -8,6 +8,7 @@ const content = [
       "Sun-E-Bike- 1 Av. Clovis Hugues, 84480 Bonnieux",
       "+33 4 90 74 09 96",
     ],
+    link: "https://www.sun-e-bike.com/en/",
   },
   {
     title: "Forêt des Cèdres",
@@ -18,6 +19,7 @@ const content = [
       "A good walk starts from the D3, near the Camping Le Vallon du Luberon.",
       "Otherwise there is parking nearby at the top.",
     ],
+    link: "https://www.vaucluse-visites-virtuelles.com/glvirtualbluepopouts/foret-des-cedres-luberon-en.html",
   },
   {
     title: "The Ochre Trail, Roussillon",
@@ -27,6 +29,7 @@ const content = [
     details: [
       "Located in Roussillon, The route, which starts near the centre of the village, is indicated with rather small and easy-to-miss footpath signs.",
     ],
+    link: "https://en.luberon-apt.fr/the-ocher-massif/the-ocher-trail",
   },
   {
     title: "Museum of Lavender",
@@ -36,6 +39,7 @@ const content = [
       "276 Rte de Gordes, 84220 Cabrières-d'Avignon",
       "+33 4 90 76 91 23",
     ],
+    link: "https://www.museedelalavande.com/",
   },
   {
     title: "The Verdon Gorge",
@@ -45,6 +49,7 @@ const content = [
     details: [
       "The most photographed spot at the Gorges du Verdon is from the Pont du Galetas bridge, which overlooks the gorges and all the boats entering the Verdon River.",
     ],
+    link: "https://about-france.com/tourism/verdon-gorge.htm",
   },
   {
     title: "Carrières de Lumières",
@@ -55,6 +60,7 @@ const content = [
       "Route de Maillane, 13520 Les Baux-de-Provence",
       "+33 4 90 49 20 02",
     ],
+    link: "https://www.carrieres-lumieres.com",
   },
   {
     title: "Walking in the Luberon ",
@@ -62,9 +68,10 @@ const content = [
       "Although it will most likley be fairly hot during late August/early Sepetmber and so you may wish to keep activity to a few lenghs of a pool and a trip to the Domaine to pick up more Rose, the walking and hiking in the Luberon is absolutley beautiful.  There is an extensive and accessible network of walking paths and trails, linking villages that are often just a few miles apart. Walking trails are marked by small slashes painted on trees, rocks, utility poles, fence posts, even buildings. In many areas of the Vaucluse - including the Luberon - there is also a system of signposts with bright gold signs at key trail intersections. A really beautiful walk to try is the 3 hour between Bonnieux and Lacoste- link here for the details- https://www.theluberon.com/things-to-do/hiking-in-the-luberon/bonnieux-lacoste-hike",
     image: "walking-min.png",
     details: [],
+    link: "https://www.theluberon.com/things-to-do/hiking-in-the-luberon/bonnieux-lacoste-hike",
   },
   {
-    title: "A pit-stop for anyone driving down ",
+    title: "A pit-stop for anyone driving down",
     content:
       "A good half way point to stop over night if you are dirving from the UK is in the region of Beaune. There are lots of hotel you can choose from, this district is famous for Burgundy wines. Ali and Jo's favourite place to stop and pick up a bottle or two is Chassagne Montrachet. Ask for Stephan at Caveau Les Grands Crus (the village coopertaive) who can sort you out!",
     image: "pit_stop-min.png",
@@ -72,6 +79,7 @@ const content = [
       "Caveau Les Grands Crus , 2367 Rte des Allemands, 71680 Vinzelles, France",
       "+33 3 85 27 05 70",
     ],
+    link: "https://www.lesgrandscrusblancs.com/en/",
   },
   {
     title: "Food Shopping",
@@ -79,6 +87,7 @@ const content = [
       "Provence manages to make something that in many other parts of the world would be a chore into a highlight of the day! There are many options for food shopping. If you can visit the markets are always the best place to buy fresh Provençal produce and each day a different village or town hosts a market. Otherwise there are some great supermarkets too. Fresh in Apt in one of the best supermarkets in the area- it has a particularly good selection of fresh produce if you aren’t able to make it to the local market that day. There is also SuperU in Coustellet and L'Eclerc in Apt which have everything you need. Cozy Fruits à Coustellet is a high quality green grocer which also offers a section of cheeses, cold meats, groceries and wines and Poissonnerie Lo Traiteur de la Mer, also in Coustellet sells excellent fish and seafood.",
     image: "food_shopping-min.png",
     details: [],
+    link: "https://www.facebook.com/Cosy-Fruits-113136330373257/",
   },
   {
     title: "Activities to get you in the mood",
@@ -86,6 +95,7 @@ const content = [
       "Our favourite film to watch to get us in the mood ahead of a trip back to Provence is A Good Year, Ridley Scott's sentimental adaptation of a Peter Mayle story featuring Russel Crowe, Albert Finley and Marion Cotillard -  all filmed around Menerbes and Bonnieux. Jo Thomson also enjoys watching Jean de Floret - a 1986 French language film in two parts. If you enjoy that then Manon des Sources is the follow up.",
     image: "get_in_the_mood-min.png",
     details: [],
+    link: "https://www.amazon.co.uk/Good-Year-Russell-Crowe/dp/B00FYGT5B0",
   },
 ];
 
