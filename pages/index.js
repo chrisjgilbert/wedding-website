@@ -2,7 +2,7 @@ import HeroImage from "../components/heroImage";
 import Container from "../components/container";
 import ListContainer from "../components/listContainer";
 import ListContainerItem from "../components/listContainerItem";
-import SummaryItem from "../components/SummaryItem";
+import SummaryItem from "../components/summaryItem";
 
 import styles from "../styles/Home.module.css";
 
