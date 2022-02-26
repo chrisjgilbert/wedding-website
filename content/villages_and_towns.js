@@ -2,7 +2,7 @@ const content = [
   {
     title: "Ménerbes",
     content: `This is the closest village to La Bastide de Marie. The hill top village has a small car park as you you enter and there are lots of nice little shops and cafes to explore with a beautiful view across the valley when you get to the top. Picasso once owned a house in the village and in the Place de l'Horloge at the top of Ménerbes, opposite the town hall, is the Maison de la truffe et du vin (House of truffles and wine). At New Years they hold a huge truffle fair in the village where large white and black truffles can be enjoyed over your omelette. Our favourite place for a long lunch or an evening drink is Bistrot le 5 or if you are just looking for a quick rosé pit stop then pop in at La Poste.`,
-    image: "Ménerbes-min.png",
+    image: "menerbes-min.png",
     link: "https://www.theluberon.com/villages/Ménerbes/",
   },
   {
