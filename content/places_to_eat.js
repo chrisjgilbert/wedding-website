@@ -22,14 +22,14 @@ const content = [
   {
     title: "Café du Progrès, Ménerbes",
     content:
-      "This little cafe in the centre of Menerbes is one of our favourites- perfect a glass of wine with a magical view of the valley and also serves delicious food.",
+      "This little cafe in the centre of Ménerbes is one of our favourites- perfect a glass of wine with a magical view of the valley and also serves delicious food.",
     image: "cafe_du_progres-min.png",
     details: [
       "31 Rue Raoul et Raymond Sylvestre, 84560 Ménerbes",
       "+33 4 32 50 12 32",
       "Price ££",
     ],
-    link: "https://www.cafeduprogres-menerbes.com/?lang=en",
+    link: "https://www.cafeduprogres-Ménerbes.com/?lang=en",
   },
   {
     title: "Le Petit Café, Oppède",
@@ -109,7 +109,7 @@ const content = [
   {
     title: "Maison de la Truffe, Ménerbes",
     content:
-      "At the top of  Ménerbes you will find the Museum of Truffles which has all sorts of truffle related products for sale, there is a restaurant however it has mixed reviews of the food, however we have been there for a glass of wine to enjoy the very pretty terrace and views from the top of Menerbes",
+      "At the top of  Ménerbes you will find the Museum of Truffles which has all sorts of truffle related products for sale, there is a restaurant however it has mixed reviews of the food, however we have been there for a glass of wine to enjoy the very pretty terrace and views from the top of Ménerbes",
     image: "maison_de_la_truffe-min.png",
     details: [
       "Pl. de l'Horloge, 84560 Ménerbes",

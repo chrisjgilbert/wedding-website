@@ -15,7 +15,7 @@ export default function PlacesToVisit() {
         <PageHeader
           span="Places to visit "
           h1="Our favourite villages and towns in Provence"
-          p="Provence is famous for its beautiful hillside villages which are extremely picturesque and oozing with charm. From the quintessential Ménerbes to lazy long afternoons spent in Gordes here is a list of some of our favourite places to visit."
+          p="Provence is famous for its beautiful hillside villages which are extremely picturesque and ooze charm. From the quintessential Ménerbes to lazy long afternoons spent in Gordes here is a list of some of our favourite places to visit."
         />
         <ListContainer>
           {content.map((c) => (

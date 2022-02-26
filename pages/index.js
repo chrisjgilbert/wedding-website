@@ -14,13 +14,10 @@ export default function Home() {
       <HeroImage image="/homepage.jpg" />
       <Container>
         <div className={styles.copyContainer}>
-          <p>
-            We can‘t wait to welcome you to Provence for our wedding, it really
-            is such a special part of the world.
-          </p>
+          <p>We can‘t wait to welcome you to Provence for our wedding.</p>
           <p>
             We thought it might be helpful to share some our our favourite
-            places to visit and see while you are stating in the Luberon.
+            places to visit and see while you are staying in the Luberon.
           </p>
         </div>
         <ListContainer>

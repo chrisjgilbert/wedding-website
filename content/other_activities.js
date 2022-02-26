@@ -13,7 +13,7 @@ const content = [
   {
     title: "Forêt des Cèdres",
     content:
-      "Nestled at the top of the Petit Luberon between Bonnieux and Menerbes, is this wonderful forest with a series of marked walkways under tall cedars. For the energetic of you you can climb up to the top from several routes, or for the more lazy you can drive there from the top of Bonnieux.",
+      "Nestled at the top of the Petit Luberon between Bonnieux and Ménerbes, is this wonderful forest with a series of marked walkways under tall cedars. For the energetic of you you can climb up to the top from several routes, or for the more lazy you can drive there from the top of Bonnieux.",
     image: "foret_des_cedres-min.png",
     details: [
       "A good walk starts from the D3, near the Camping Le Vallon du Luberon.",
@@ -92,7 +92,7 @@ const content = [
   {
     title: "Activities to get you in the mood",
     content:
-      "Our favourite film to watch to get us in the mood ahead of a trip back to Provence is A Good Year, Ridley Scott's sentimental adaptation of a Peter Mayle story featuring Russel Crowe, Albert Finley and Marion Cotillard -  all filmed around Menerbes and Bonnieux. Jo Thomson also enjoys watching Jean de Floret - a 1986 French language film in two parts. If you enjoy that then Manon des Sources is the follow up.",
+      "Our favourite film to watch to get us in the mood ahead of a trip back to Provence is A Good Year, Ridley Scott's sentimental adaptation of a Peter Mayle story featuring Russel Crowe, Albert Finley and Marion Cotillard -  all filmed around Ménerbes and Bonnieux. Jo Thomson also enjoys watching Jean de Floret - a 1986 French language film in two parts. If you enjoy that then Manon des Sources is the follow up.",
     image: "get_in_the_mood-min.png",
     details: [],
     link: "https://www.amazon.co.uk/Good-Year-Russell-Crowe/dp/B00FYGT5B0",
