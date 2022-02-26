@@ -2,7 +2,7 @@ const content = [
   {
     title: "Bistrot le 5, Ménerbes",
     content:
-      "The setting for many long lunch, the food here is great and they serve all the best local wines. Local celebs are often in residence (Jamie G).",
+      "The setting for many a long lunch, the food here is great and they serve all the best local wines. Local celebs are often in residence (Jamie G). Book a table as it gets busy.",
     image: "bistrot_le_5-min.png",
     details: [
       "5 Pl. Albert Roure, 84560 Ménerbes",
@@ -14,7 +14,7 @@ const content = [
   {
     title: "Cafe de France, Lacoste",
     content:
-      "A very simple cafe with a beautiful view over the valley. Perfect for a glass of local Rosé early evening.",
+      "A very simple cafe with a beautiful view over the valley. Perfect for a glass of local rosé in the early evening.",
     image: "cafe_de_france-min.png",
     details: ["D106, 84480 Lacoste", "+33 4 90 75 82 25", "Price ££"],
     link: "https://www.facebook.com/LacosteCafeDeFrance/",
@@ -22,7 +22,7 @@ const content = [
   {
     title: "Café du Progrès, Ménerbes",
     content:
-      "This little cafe in the centre of Ménerbes is one of our favourites- perfect a glass of wine with a magical view of the valley and also serves delicious food.",
+      "This little cafe in the centre of Ménerbes is one of our favourites - perfect a glass of wine with a magical view of the valley and also serves delicious food.",
     image: "cafe_du_progres-min.png",
     details: [
       "31 Rue Raoul et Raymond Sylvestre, 84560 Ménerbes",
@@ -34,7 +34,7 @@ const content = [
   {
     title: "Le Petit Café, Oppède",
     content:
-      "If you decide to make this trip over for an evening walk in Oppede we would definitely recommend stopping for either a glass of wine or some food at this cute cafe right in the centre of the village. The owner has a slightly Basil Fawlty approach to service but it is full of charm and, unsurprisingly, the tables outside over-looking the square are the best.",
+      "If you decide to make the trip over for an evening walk in Oppède, we would definitely recommend stopping for either a glass of wine or some food at this cute cafe right in the centre of the village. The owner has a slightly Basil Fawlty approach to service but it is full of charm and, unsurprisingly, the tables outside over-looking the square are the best.",
     image: "le_petit_cafe-min.png",
     details: [
       "2 Rue de Sainte-Cécile, 84580 Oppède",
@@ -54,7 +54,7 @@ const content = [
   {
     title: "Les Vignes et son Jardin, La Coquillade, Gargas",
     content:
-      "Always an annual outing for us is dinner in the outside restaurant at Le Coquillade, nestled by the acres of their vines - it makes for a magical setting as the sun sets.  Food is simple Luberon produce with a meat and fish grill.",
+      "Always a Thomson favourite is dinner in the outside restaurant at Le Coquillade. Nestled by the acres of their vines, it makes for a magical setting as the sun sets. The food is simple Luberon produce with a meat and fish grill.",
     image: "les_vignes_et_son_jardin-min.png",
     details: ["La Coquillade, 84400 Gargas", "+33 4 90 74 71 71", "Price ££££"],
     link: "https://coquillade.fr/en/les-vignes-et-son-jardin.html",
@@ -62,7 +62,7 @@ const content = [
   {
     title: "Restaurant at Le Moulin, Lourmarin",
     content:
-      "This hotel has a really great restaurant that is open for breakfast, lunch and dinner all served in their beautiful terrace setting. Excellent cocktails too. Open from Wednesday for lunch to Sunday evening and a nice place to stop if you are visiting the village. Chez Gaby, which is around the corner, is another good option in Lourmarin if you are wanting an omellet/salad or something more casual.",
+      "This hotel has a really great restaurant that is open for breakfast, lunch and dinner all served in their beautiful terrace setting. Excellent cocktails too. Open from Wednesday for lunch to Sunday evening and a nice place to stop if you are visiting the village. Chez Gaby, which is around the corner, is another good option in Lourmarin if you are wanting an omelette/salad or something more casual.",
     image: "restaurant_at_le_moulin-min.png",
     details: [
       "Av. Raoul Dautry, 84160 Lourmarin",
@@ -74,7 +74,7 @@ const content = [
   {
     title: "Les Domaines de Fontenille, Lourmarin Store",
     content:
-      "Open every day from 10am to 1pm and then from 2pm to 6pm this little Lourmarin outpost of the Domaines de Fontenille serves all of the wine that they produce and really convenient if you are staying in or around Lourmarin.",
+      "Open every day from 10am to 1pm and then from 2pm to 6pm, this little Lourmarin outpost of the Domaines de Fontenille serves all of the wine that they produce and is really convenient if you are staying in or around Lourmarin.",
     image: "les_domaines_de_fontenille-min.png",
     details: [
       "2 rue du Grand Pré on Place de la Fontaine",
@@ -85,7 +85,7 @@ const content = [
   {
     title: "Domaine de la Verriere, Gargas",
     content:
-      "We were going to keep this one a secret, so Jo Thomson has requested ‘no sharing  beyond friends and family please’! Our go to Chateau for their Rose and White wine at very good prices and very good quality for those long lunches. ",
+      "We were going to keep this one a secret, so Jo Thomson has requested ‘no sharing beyond friends and family please’! Our go to Chateau for their rosé and white wine at very good prices which are delicious for those long lunches.",
     image: "domaine_de_la_verriere-min.png",
     details: [
       "Chem. de la Verrière, 84220 Goult, France",
@@ -97,7 +97,7 @@ const content = [
   {
     title: "Doppio Pizza, Goult",
     content:
-      "Pizza's cooked over woodfire - its very popular with locals - open Wednesday to Sunday, noon and evening you can book and should in the summer but best to ring after 4pm.",
+      "This restaurant serves pizzas cooked over woodfire and is very popular with locals. It is open Wednesday to Sunday, noon and evening - you should book in the summer.",
     image: "doppio_pizza-min.png",
     details: [
       "Quartier Pied Rousset Sud, 84220 Goult",
@@ -109,7 +109,7 @@ const content = [
   {
     title: "Maison de la Truffe, Ménerbes",
     content:
-      "At the top of  Ménerbes you will find the Museum of Truffles which has all sorts of truffle related products for sale, there is a restaurant however it has mixed reviews of the food, however we have been there for a glass of wine to enjoy the very pretty terrace and views from the top of Ménerbes",
+      "At the top of  Ménerbes you will find the Museum of Truffles which has all sorts of truffle related products for sale and a restaurant. We have been there for a glass of wine to enjoy the very pretty terrace and views from the top of Ménerbes",
     image: "maison_de_la_truffe-min.png",
     details: [
       "Pl. de l'Horloge, 84560 Ménerbes",
@@ -122,7 +122,7 @@ const content = [
   {
     title: "La Bergerie, Bonnieux",
     content:
-      "This is the more casual restaurant at Le Capelongue which has a wood fired grill menu and is a very social place to eat. They also have a Michelin star restaurant for the foodies",
+      "This is the more casual restaurant at Le Capelongue which has a wood fired grill menu and is a very social place to eat. They also have a Michelin star restaurant for the foodies.",
     image: "le_bergerie-min.png",
     details: [
       "Capelongue, Les Claparèdes, Chemin des Cabanes, 84480 Bonnieux",
@@ -134,7 +134,7 @@ const content = [
   {
     title: "Café de la Poste, Goult",
     content:
-      "A great place for a drink or a meal at one of the outside tables over looking the square in Goult ",
+      "A great place for a drink or a meal at one of the outside tables over looking the square in Goult.",
     image: "cafe_de_la_poste-min.png",
     details: [
       "Parc naturel régional du Luberon, Rue de la République, 84220 Goult",
@@ -154,7 +154,7 @@ const content = [
   {
     title: "Château la Canorgue, Bonnieux",
     content:
-      "Made famous by the Ridley Scott film, all filmed at this Chateau just outside of Bonnieux who specialise in bio production of their wines. This isnt out favourite of the local wines but still very good and a fun place to stop at to see the house.",
+      "Made famous by the Ridley Scott film, this Chateau just outside of Bonnieux specialise in bio production of their wines. This isn‘t our favourite of the local wines but it is still very good and a fun place to stop at to see the house.",
     image: "chateau_la_canorgue-min.png",
     details: [
       "Route du Pont Julien - D149, 84480 Bonnieux",
