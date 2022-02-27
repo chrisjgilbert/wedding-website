@@ -7,7 +7,7 @@ const content = [
     details: [
       "Les Claparèdes, Chemin des Cabanes, 84480 Bonnieux",
       "+33 4 90 75 89 78",
-      "Price £££",
+      "Price ££££",
     ],
   },
   {
@@ -84,13 +84,13 @@ const content = [
     link: "https://airelles.com/en/destination/gordes-hotel",
   },
   {
-    title: "Domaine de Fontenille, Bonnieux",
+    title: "Domaine de Fontenille, Lauris",
     content: `Another upmarket hotel with a great vineyard and restaurants. An Ali and Jo Thomson recommendation.`,
     image: "domaine_de_fontenille-min.png",
     details: [
       "Rte de Roquefraiche, 84360 Lauris",
       "+33 4 13 98 00 00",
-      "Price £££",
+      "Price ££££",
     ],
     link: "https://www.lesdomainesdefontenille.com/en/domainedefontenille.html",
   },
@@ -98,14 +98,10 @@ const content = [
     title: "Le Clos Les Eydins, between Bonnieux and Pont Julien",
     content: `This is a simple B&B in Bonnieux. Although relatively basic, it is in a fantastic location and has apartments as well as rooms. It also has a pool.`,
     image: "le_clos_les_eydins-min.png",
-    details: [
-      "Chem. du Four, 84480 Bonnieux",
-      "+33 6 18 40 61 56",
-      "Price £££",
-    ],
+    details: ["Chem. du Four, 84480 Bonnieux", "+33 6 18 40 61 56", "Price ££"],
     link: "https://www.leseydins.com/en",
   },
-  {
+
     title: "Villa rentals",
     content: `There are lots of websites offering villa rentals if you want to share a house with a larger group and also lots of great options available on Air BNB.
 

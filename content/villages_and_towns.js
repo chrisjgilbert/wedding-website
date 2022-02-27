@@ -7,13 +7,13 @@ const content = [
   },
   {
     title: "Bonnieux",
-    content: `Bonnieux is another village close to La Bastide de Marie and has the most beautiful view across the valley floor with its patchwork of orchards and vineyards, towards the picturesque village of Lacoste. The village has 2 great boulangeries if you are on a morning croissant run, and a village tennis court that you can buy a week long pass for (no better way to build up an appetite before a pain au chocolat, plus ALOT of Thomson Holidays have seen action on this court). The Beaumier hotel group have recently taken over the largest hotel in the village which is Capelongue which has two restaurants, one more high-end cuisine and the other a more relaxed (and cheaper!) grill.`,
+    content: `Bonnieux is another village close to La Bastide de Marie and has the most beautiful view across the valley floor with its patchwork of orchards and vineyards, towards the picturesque village of Lacoste. The village has 2 great boulangeries if you are on a morning croissant run, and a village tennis court that you can buy a week long pass for (no better way to build up an appetite before a pain au chocolat, plus A LOT of Thomson Holidays have seen action on this court). The Beaumier hotel group have recently taken over the largest hotel in the village which is Capelongue which has two restaurants, one more high-end cuisine and the other a more relaxed (and cheaper!) grill.`,
     image: "bonnieux-min.png",
     link: "https://www.theluberon.com/villages/bonnieux/",
   },
   {
     title: "Lacoste",
-    content: `Lacoste is another very pretty village close to the Bastide, made famous by the Marquis de Sade's castle which sits at the top. In the 1950's it was taken over by Pierre Cardin, the fashion designer. It was Cardin who started the Lacoste Festival - a summer series of musical, theatrical and other artistic events, which still runs today. If your are feeling like a walk you can head to the top of the village and explore the castle. Otherwise there is a cafe, Café de la France, in the village which is an excellent spot of an early evening glass of rosé or beer and also has an amazing view back across the valley to Bonnieux.`,
+    content: `Lacoste is another very pretty village close to the Bastide, made famous by the Marquis de Sade's castle which sits at the top. In the 1950's it was taken over by Pierre Cardin, the fashion designer. It was Cardin who started the Lacoste Festival - a summer series of musical, theatrical and other artistic events, which still runs today. If your are feeling like a walk you can head to the top of the village and explore the castle. Otherwise there is a cafe, Café de la France, in the village which is an excellent spot for an early evening glass of rosé or beer and also has an amazing view back across the valley to Bonnieux.`,
     image: "lacoste-min.png",
     link: "https://www.theluberon.com/villages/lacoste/",
   },

@@ -65,7 +65,7 @@ const content = [
   {
     title: "Walking in the Luberon ",
     content:
-      "Although it will most likely be fairly hot during late August/early September and you may wish to keep activity to a few length of a pool, the walking and hiking in the Luberon is beautiful. There is an extensive and accessible network of walking paths and trails, linking villages that are often just a few miles apart. Walking trails are marked by small slashes painted on trees, rocks, utility poles, fence posts, and on buildings. In many areas of the Vaucluse - including the Luberon - there is also a system of signposts with bright gold signs at key trail intersections. A really beautiful walk to try is the 3 hour hike between Bonnieux and Lacoste.",
+      "Although it will most likely be fairly hot during late August/early September and you may wish to keep activity to a few lengths of a pool, the walking and hiking in the Luberon is beautiful. There is an extensive and accessible network of walking paths and trails, linking villages that are often just a few miles apart. Walking trails are marked by small slashes painted on trees, rocks, utility poles, fence posts, and on buildings. In many areas of the Vaucluse - including the Luberon - there is also a system of signposts with bright gold signs at key trail intersections. A really beautiful walk to try is the 3 hour hike between Bonnieux and Lacoste.",
     image: "walking-min.png",
     details: [],
     link: "https://www.theluberon.com/things-to-do/hiking-in-the-luberon/bonnieux-lacoste-hike",
@@ -75,10 +75,7 @@ const content = [
     content:
       "A good half way point to stop over night if you are driving from the UK is in the region of Beaune. There are lots of hotel you can choose from and this district is famous for Burgundy wines. Ali and Jo's favourite place to stop and pick up a bottle or two is Chassagne Montrachet. Ask for Stephan at Caveau Les Grands Crus (the village cooperative) who can sort you out!",
     image: "pit_stop-min.png",
-    details: [
-      "Caveau Les Grands Crus , 2367 Rte des Allemands, 71680 Vinzelles, France",
-      "+33 3 85 27 05 70",
-    ],
+    details: ["21190 Chassagne Montrachet", "+33 3 85 27 05 70"],
     link: "https://www.lesgrandscrusblancs.com/en/",
   },
   {

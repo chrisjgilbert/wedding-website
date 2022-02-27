@@ -13,7 +13,7 @@ export const content = [
   {
     topic: "La Bastide de Marie",
     title: "About the venue",
-    copy: `The Bastide de Marie is a hotel and location that is very close to the heart of the Thomson family. Situated just outside the village of Ménerbes, it has been the venue for many memorable meals over last 16 years of family summer holidays in the Luberon. We have enjoyed drinks on the terrace as well as wonderful, long delicious suppers in the rose garden by the edge of the vines. The main building is an old farmhouse which sits amongst 23 hectares of vines. It produces white, red and rosé wine (which you will get to know very well over the weekend!) and has a stunning outlook across the petit Luberon.
+    copy: `The Bastide de Marie is a hotel and location that is very close to the heart of the Thomson family. Situated just outside the village of Ménerbes, it has been the venue for many memorable meals over the last 16 years of family summer holidays in the Luberon. We have enjoyed drinks on the terrace as well as wonderful, long delicious suppers in the rose garden by the edge of the vines. The main building is an old farmhouse which sits amongst 23 hectares of vines. It produces white, red and rosé wine (which you will get to know very well over the weekend!) and has a stunning outlook across the petit Luberon.
 
     As well as sampling the Domaine de Marie wines, the seasonal produce and modern Provençal-style cuisine is exceptional. We return year upon year and are never disappointed. We think it’s a very magical place and can’t wait to share it with you.`,
     image: "bastide_a.png",
