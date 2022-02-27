@@ -101,7 +101,7 @@ const content = [
     details: ["Chem. du Four, 84480 Bonnieux", "+33 6 18 40 61 56", "Price ££"],
     link: "https://www.leseydins.com/en",
   },
-
+  {
     title: "Villa rentals",
     content: `There are lots of websites offering villa rentals if you want to share a house with a larger group and also lots of great options available on Air BNB.
 
