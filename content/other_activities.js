@@ -54,7 +54,7 @@ const content = [
   {
     title: "Carrières de Lumières",
     content:
-      "About a 45 min drive away, this is an amazing system of caves near Les Baumes. They feature multi media art installations - previous ones have included Cézanne, Kandinsky, and Monet, but you will need to check their website to see what their programme is for 2022. Worth arriving early to avoid queues and to get a parking space.",
+      "About a 45 min drive away, this is an amazing system of caves near Les Baux. They feature multi media art installations - previous ones have included Cézanne, Kandinsky, and Monet, but you will need to check their website to see what their programme is for 2022. Worth arriving early to avoid queues and to get a parking space.",
     image: "carrieres_de_lumieres-min.png",
     details: [
       "Route de Maillane, 13520 Les Baux-de-Provence",
@@ -65,7 +65,7 @@ const content = [
   {
     title: "Walking in the Luberon ",
     content:
-      "Although it will most likely be fairly hot during late August/early September and you may wish to keep activity to a few lengths of a pool, the walking and hiking in the Luberon is beautiful. There is an extensive and accessible network of walking paths and trails, linking villages that are often just a few miles apart. Walking trails are marked by small slashes painted on trees, rocks, utility poles, fence posts, and on buildings. In many areas of the Vaucluse - including the Luberon - there is also a system of signposts with bright gold signs at key trail intersections. A really beautiful walk to try is the 3 hour hike between Bonnieux and Lacoste.",
+      "Although it will most likely be fairly hot during late August/early September and you may wish to keep activity to a few lengths of a pool, the walking and hiking in the Luberon is beautiful. There is an extensive and accessible network of walking paths and trails, linking villages that are often just a few miles apart. Walking trails are marked by small slashes painted on trees, rocks, utility poles, fence posts, and on buildings. In many areas of the Vaucluse - including the Luberon - there is also a system of signposts with bright gold signs at key trail intersections. A really beautiful walk to try is the 1 hour hike between Bonnieux and Lacoste.",
     image: "walking-min.png",
     details: [],
     link: "https://www.theluberon.com/things-to-do/hiking-in-the-luberon/bonnieux-lacoste-hike",
