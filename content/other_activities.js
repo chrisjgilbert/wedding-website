@@ -2,7 +2,7 @@ const content = [
   {
     title: "Cycling",
     content:
-      "The area is full of cyclists, both casual and formal, and there are plenty of exceptional rides to be enjoyed. For those interested in hiring bikes, there are several in hire shops in Bonnieux including the Lucy and Jo Thomson favourite - Sun-E bike. Given the hills, electric bikes aren‘t a bad idea, but for those of you in need of a physical challenge, then why not take on Mount Ventoux which is a little over an hours drive from Ménerbes.",
+      "The area is full of cyclists, both casual and formal, and there are plenty of exceptional rides to be enjoyed. For those interested in hiring bikes, there are several in hire shops in Bonnieux including the Lucy and Jo Thomson favourite - Sun-E bike. Given the hills, electric bikes aren‘t a bad idea, but for those of you in need of a physical challenge, why not take on Mount Ventoux which is a little over an hours drive from Ménerbes.",
     image: "cycling-min.png",
     details: [
       "Sun-E-Bike- 1 Av. Clovis Hugues, 84480 Bonnieux",
