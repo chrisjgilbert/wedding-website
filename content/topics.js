@@ -14,7 +14,7 @@ const topics = [
     link: "/places-to-stay",
   },
   {
-    topic: "Places to at and drink",
+    topic: "Places to eat and drink",
     title: "The best Restaurants, Cafes & Rosé Pit-Stops",
     copy: "Arguably the thing we love the most about this region of France is the food and wine it produces. There are so many amazing places to pick up great wine or try delicious seasonal staples.",
     image: "restaurants_cafes-min.png",
