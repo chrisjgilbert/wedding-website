@@ -66,6 +66,21 @@ export default function OnTheDay() {
           <br />
           Contact details will be made available closer to the time.
         </dd>
+
+        <dt>Wedding List</dt>
+        <dd>
+          It goes without saying that your prescence celebrating this special
+          with us is enough of a gift (a little cringe but very true). However,
+          we do have a lift at the Conran Shop which can be found{" "}
+          <a
+            href="wedding-list.pdf"
+            target="_blank"
+            className={styles.weddingListLink}
+          >
+            here
+          </a>
+          .
+        </dd>
       </dl>
     </div>
   );
